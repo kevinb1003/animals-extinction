@@ -1,0 +1,1908 @@
+[
+  {
+    "total": 2,
+    "countryName": "Aruba",
+    "countryCode": "ABW",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Afghanistan",
+    "countryCode": "AFG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Angola",
+    "countryCode": "AGO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Albania",
+    "countryCode": "ALB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Andorra",
+    "countryCode": "AND",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 248,
+    "countryName": "Arab World",
+    "countryCode": "ARB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "United Arab Emirates",
+    "countryCode": "ARE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 38,
+    "countryName": "Argentina",
+    "countryCode": "ARG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Armenia",
+    "countryCode": "ARM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "American Samoa",
+    "countryCode": "ASM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "ATG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 63,
+    "countryName": "Australia",
+    "countryCode": "AUS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Austria",
+    "countryCode": "AUT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Azerbaijan",
+    "countryCode": "AZE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Burundi",
+    "countryCode": "BDI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Belgium",
+    "countryCode": "BEL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Benin",
+    "countryCode": "BEN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Burkina Faso",
+    "countryCode": "BFA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 37,
+    "countryName": "Bangladesh",
+    "countryCode": "BGD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Bulgaria",
+    "countryCode": "BGR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Bahrain",
+    "countryCode": "BHR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Bahamas, The",
+    "countryCode": "BHS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BIH",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Belarus",
+    "countryCode": "BLR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Belize",
+    "countryCode": "BLZ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Bermuda",
+    "countryCode": "BMU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Bolivia",
+    "countryCode": "BOL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 80,
+    "countryName": "Brazil",
+    "countryCode": "BRA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Barbados",
+    "countryCode": "BRB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Brunei Darussalam",
+    "countryCode": "BRN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Bhutan",
+    "countryCode": "BTN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Botswana",
+    "countryCode": "BWA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Central African Republic",
+    "countryCode": "CAF",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Canada",
+    "countryCode": "CAN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 50,
+    "countryName": "Central Europe and the Baltics",
+    "countryCode": "CEB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Switzerland",
+    "countryCode": "CHE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Channel Islands",
+    "countryCode": "CHI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Chile",
+    "countryCode": "CHL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 73,
+    "countryName": "China",
+    "countryCode": "CHN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Cote d'Ivoire",
+    "countryCode": "CIV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 46,
+    "countryName": "Cameroon",
+    "countryCode": "CMR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Congo, Dem. Rep.",
+    "countryCode": "COD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Congo, Rep.",
+    "countryCode": "COG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 58,
+    "countryName": "Colombia",
+    "countryCode": "COL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Comoros",
+    "countryCode": "COM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Cabo Verde",
+    "countryCode": "CPV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Costa Rica",
+    "countryCode": "CRI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 61,
+    "countryName": "Caribbean small states",
+    "countryCode": "CSS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Cuba",
+    "countryCode": "CUB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Curacao",
+    "countryCode": "CUW",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Cayman Islands",
+    "countryCode": "CYM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Cyprus",
+    "countryCode": "CYP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Czech Republic",
+    "countryCode": "CZE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Germany",
+    "countryCode": "DEU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Djibouti",
+    "countryCode": "DJI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Dominica",
+    "countryCode": "DMA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Denmark",
+    "countryCode": "DNK",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Dominican Republic",
+    "countryCode": "DOM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Algeria",
+    "countryCode": "DZA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 739,
+    "countryName": "East Asia & Pacific (excluding high income)",
+    "countryCode": "EAP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1406,
+    "countryName": "Early-demographic dividend",
+    "countryCode": "EAR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 934,
+    "countryName": "East Asia & Pacific",
+    "countryCode": "EAS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 188,
+    "countryName": "Europe & Central Asia (excluding high income)",
+    "countryCode": "ECA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 350,
+    "countryName": "Europe & Central Asia",
+    "countryCode": "ECS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 47,
+    "countryName": "Ecuador",
+    "countryCode": "ECU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Egypt, Arab Rep.",
+    "countryCode": "EGY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 99,
+    "countryName": "Euro area",
+    "countryCode": "EMU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Eritrea",
+    "countryCode": "ERI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Spain",
+    "countryCode": "ESP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Estonia",
+    "countryCode": "EST",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 34,
+    "countryName": "Ethiopia",
+    "countryCode": "ETH",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 143,
+    "countryName": "European Union",
+    "countryCode": "EUU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 504,
+    "countryName": "Fragile and conflict affected situations",
+    "countryCode": "FCS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Finland",
+    "countryCode": "FIN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Fiji",
+    "countryCode": "FJI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "France",
+    "countryCode": "FRA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Faroe Islands",
+    "countryCode": "FRO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Micronesia, Fed. Sts.",
+    "countryCode": "FSM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Gabon",
+    "countryCode": "GAB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "United Kingdom",
+    "countryCode": "GBR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Georgia",
+    "countryCode": "GEO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Ghana",
+    "countryCode": "GHA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Gibraltar",
+    "countryCode": "GIB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Guinea",
+    "countryCode": "GIN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Gambia, The",
+    "countryCode": "GMB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Guinea-Bissau",
+    "countryCode": "GNB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 23,
+    "countryName": "Equatorial Guinea",
+    "countryCode": "GNQ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Greece",
+    "countryCode": "GRC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Grenada",
+    "countryCode": "GRD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Greenland",
+    "countryCode": "GRL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Guatemala",
+    "countryCode": "GTM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Guam",
+    "countryCode": "GUM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Guyana",
+    "countryCode": "GUY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 561,
+    "countryName": "High income",
+    "countryCode": "HIC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Hong Kong SAR, China",
+    "countryCode": "HKG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Honduras",
+    "countryCode": "HND",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 799,
+    "countryName": "Heavily indebted poor countries (HIPC)",
+    "countryCode": "HPC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Croatia",
+    "countryCode": "HRV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Haiti",
+    "countryCode": "HTI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Hungary",
+    "countryCode": "HUN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1612,
+    "countryName": "IBRD only",
+    "countryCode": "IBD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2911,
+    "countryName": "IDA & IBRD total",
+    "countryCode": "IBT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1299,
+    "countryName": "IDA total",
+    "countryCode": "IDA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 249,
+    "countryName": "IDA blend",
+    "countryCode": "IDB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 191,
+    "countryName": "Indonesia",
+    "countryCode": "IDN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1050,
+    "countryName": "IDA only",
+    "countryCode": "IDX",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Isle of Man",
+    "countryCode": "IMN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 93,
+    "countryName": "India",
+    "countryCode": "IND",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Not classified",
+    "countryCode": "INX",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Ireland",
+    "countryCode": "IRL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Iran, Islamic Rep.",
+    "countryCode": "IRN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Iraq",
+    "countryCode": "IRQ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Iceland",
+    "countryCode": "ISL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Israel",
+    "countryCode": "ISR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Italy",
+    "countryCode": "ITA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Jamaica",
+    "countryCode": "JAM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Jordan",
+    "countryCode": "JOR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Japan",
+    "countryCode": "JPN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Kazakhstan",
+    "countryCode": "KAZ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Kenya",
+    "countryCode": "KEN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Kyrgyz Republic",
+    "countryCode": "KGZ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 39,
+    "countryName": "Cambodia",
+    "countryCode": "KHM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Kiribati",
+    "countryCode": "KIR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "St. Kitts and Nevis",
+    "countryCode": "KNA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Korea, Rep.",
+    "countryCode": "KOR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Kuwait",
+    "countryCode": "KWT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 553,
+    "countryName": "Latin America & Caribbean (excluding high income)",
+    "countryCode": "LAC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Lao PDR",
+    "countryCode": "LAO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Lebanon",
+    "countryCode": "LBN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Liberia",
+    "countryCode": "LBR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Libya",
+    "countryCode": "LBY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "St. Lucia",
+    "countryCode": "LCA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 629,
+    "countryName": "Latin America & Caribbean",
+    "countryCode": "LCN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 957,
+    "countryName": "Least developed countries: UN classification",
+    "countryCode": "LDC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 649,
+    "countryName": "Low income",
+    "countryCode": "LIC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Liechtenstein",
+    "countryCode": "LIE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Sri Lanka",
+    "countryCode": "LKA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1120,
+    "countryName": "Lower middle income",
+    "countryCode": "LMC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2861,
+    "countryName": "Low & middle income",
+    "countryCode": "LMY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Lesotho",
+    "countryCode": "LSO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 800,
+    "countryName": "Late-demographic dividend",
+    "countryCode": "LTE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Lithuania",
+    "countryCode": "LTU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Luxembourg",
+    "countryCode": "LUX",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Latvia",
+    "countryCode": "LVA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Macao SAR, China",
+    "countryCode": "MAC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "St. Martin (French part)",
+    "countryCode": "MAF",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Morocco",
+    "countryCode": "MAR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Monaco",
+    "countryCode": "MCO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Moldova",
+    "countryCode": "MDA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 121,
+    "countryName": "Madagascar",
+    "countryCode": "MDG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Maldives",
+    "countryCode": "MDV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 228,
+    "countryName": "Middle East & North Africa",
+    "countryCode": "MEA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 96,
+    "countryName": "Mexico",
+    "countryCode": "MEX",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Marshall Islands",
+    "countryCode": "MHL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2212,
+    "countryName": "Middle income",
+    "countryCode": "MIC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "North Macedonia",
+    "countryCode": "MKD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Mali",
+    "countryCode": "MLI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Malta",
+    "countryCode": "MLT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 49,
+    "countryName": "Myanmar",
+    "countryCode": "MMR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 168,
+    "countryName": "Middle East & North Africa (excluding high income)",
+    "countryCode": "MNA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Montenegro",
+    "countryCode": "MNE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Mongolia",
+    "countryCode": "MNG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Northern Mariana Islands",
+    "countryCode": "MNP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Mozambique",
+    "countryCode": "MOZ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Mauritania",
+    "countryCode": "MRT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Mauritius",
+    "countryCode": "MUS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Malawi",
+    "countryCode": "MWI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 71,
+    "countryName": "Malaysia",
+    "countryCode": "MYS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 62,
+    "countryName": "North America",
+    "countryCode": "NAC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Namibia",
+    "countryCode": "NAM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "New Caledonia",
+    "countryCode": "NCL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Niger",
+    "countryCode": "NER",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Nigeria",
+    "countryCode": "NGA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Nicaragua",
+    "countryCode": "NIC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Netherlands",
+    "countryCode": "NLD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Norway",
+    "countryCode": "NOR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Nepal",
+    "countryCode": "NPL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Nauru",
+    "countryCode": "NRU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "New Zealand",
+    "countryCode": "NZL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 446,
+    "countryName": "OECD members",
+    "countryCode": "OED",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Oman",
+    "countryCode": "OMN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 234,
+    "countryName": "Other small states",
+    "countryCode": "OSS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Pakistan",
+    "countryCode": "PAK",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Panama",
+    "countryCode": "PAN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 53,
+    "countryName": "Peru",
+    "countryCode": "PER",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 38,
+    "countryName": "Philippines",
+    "countryCode": "PHL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Palau",
+    "countryCode": "PLW",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Papua New Guinea",
+    "countryCode": "PNG",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Poland",
+    "countryCode": "POL",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 799,
+    "countryName": "Pre-demographic dividend",
+    "countryCode": "PRE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Puerto Rico",
+    "countryCode": "PRI",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Korea, Dem. People’s Rep.",
+    "countryCode": "PRK",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Portugal",
+    "countryCode": "PRT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Paraguay",
+    "countryCode": "PRY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "West Bank and Gaza",
+    "countryCode": "PSE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 54,
+    "countryName": "Pacific island small states",
+    "countryCode": "PSS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 347,
+    "countryName": "Post-demographic dividend",
+    "countryCode": "PST",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "French Polynesia",
+    "countryCode": "PYF",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Qatar",
+    "countryCode": "QAT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Romania",
+    "countryCode": "ROU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 34,
+    "countryName": "Russian Federation",
+    "countryCode": "RUS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Rwanda",
+    "countryCode": "RWA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 252,
+    "countryName": "South Asia",
+    "countryCode": "SAS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Saudi Arabia",
+    "countryCode": "SAU",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Sudan",
+    "countryCode": "SDN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Senegal",
+    "countryCode": "SEN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Singapore",
+    "countryCode": "SGP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Solomon Islands",
+    "countryCode": "SLB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Sierra Leone",
+    "countryCode": "SLE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "El Salvador",
+    "countryCode": "SLV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "San Marino",
+    "countryCode": "SMR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Somalia",
+    "countryCode": "SOM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Serbia",
+    "countryCode": "SRB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 961,
+    "countryName": "Sub-Saharan Africa (excluding high income)",
+    "countryCode": "SSA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "South Sudan",
+    "countryCode": "SSD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 967,
+    "countryName": "Sub-Saharan Africa",
+    "countryCode": "SSF",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 349,
+    "countryName": "Small states",
+    "countryCode": "SST",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Sao Tome and Principe",
+    "countryCode": "STP",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Suriname",
+    "countryCode": "SUR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Slovak Republic",
+    "countryCode": "SVK",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Slovenia",
+    "countryCode": "SVN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Sweden",
+    "countryCode": "SWE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Eswatini",
+    "countryCode": "SWZ",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Sint Maarten (Dutch part)",
+    "countryCode": "SXM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Seychelles",
+    "countryCode": "SYC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Syrian Arab Republic",
+    "countryCode": "SYR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Turks and Caicos Islands",
+    "countryCode": "TCA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Chad",
+    "countryCode": "TCD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 732,
+    "countryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "countryCode": "TEA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 201,
+    "countryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "countryCode": "TEC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Togo",
+    "countryCode": "TGO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 59,
+    "countryName": "Thailand",
+    "countryCode": "THA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Tajikistan",
+    "countryCode": "TJK",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Turkmenistan",
+    "countryCode": "TKM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 595,
+    "countryName": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "countryCode": "TLA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Timor-Leste",
+    "countryCode": "TLS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 164,
+    "countryName": "Middle East & North Africa (IDA & IBRD countries)",
+    "countryCode": "TMN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Tonga",
+    "countryCode": "TON",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 252,
+    "countryName": "South Asia (IDA & IBRD)",
+    "countryCode": "TSA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 967,
+    "countryName": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "countryCode": "TSS",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Trinidad and Tobago",
+    "countryCode": "TTO",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Tunisia",
+    "countryCode": "TUN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Turkey",
+    "countryCode": "TUR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Tuvalu",
+    "countryCode": "TUV",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Tanzania",
+    "countryCode": "TZA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Uganda",
+    "countryCode": "UGA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Ukraine",
+    "countryCode": "UKR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1092,
+    "countryName": "Upper middle income",
+    "countryCode": "UMC",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Uruguay",
+    "countryCode": "URY",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 40,
+    "countryName": "United States",
+    "countryCode": "USA",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Uzbekistan",
+    "countryCode": "UZB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "St. Vincent and the Grenadines",
+    "countryCode": "VCT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "Venezuela, RB",
+    "countryCode": "VEN",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "British Virgin Islands",
+    "countryCode": "VGB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Virgin Islands (U.S.)",
+    "countryCode": "VIR",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 56,
+    "countryName": "Vietnam",
+    "countryCode": "VNM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Vanuatu",
+    "countryCode": "VUT",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "1960": "",
+    "1961": "",
+    "1962": "",
+    "1963": "",
+    "1964": "",
+    "1965": "",
+    "1966": "",
+    "1967": "",
+    "1968": "",
+    "1969": "",
+    "1970": "",
+    "1971": "",
+    "1972": "",
+    "1973": "",
+    "1974": "",
+    "1975": "",
+    "1976": "",
+    "1977": "",
+    "1978": "",
+    "1979": "",
+    "1980": "",
+    "1981": "",
+    "1982": "",
+    "1983": "",
+    "1984": "",
+    "1985": "",
+    "1986": "",
+    "1987": "",
+    "1988": "",
+    "1989": "",
+    "1990": "",
+    "1991": "",
+    "1992": "",
+    "1993": "",
+    "1994": "",
+    "1995": "",
+    "1996": "",
+    "1997": "",
+    "1998": "",
+    "1999": "",
+    "2000": "",
+    "2001": "",
+    "2002": "",
+    "2003": "",
+    "2004": "",
+    "2005": "",
+    "2006": "",
+    "2007": "",
+    "2008": "",
+    "2009": "",
+    "2010": "",
+    "2011": "",
+    "2012": "",
+    "2013": "",
+    "2014": "",
+    "2015": "",
+    "2016": "",
+    "2017": 3434,
+    "total": "",
+    "countryName": "World",
+    "countryCode": "WLD",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Samoa",
+    "countryCode": "WSM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Kosovo",
+    "countryCode": "XKX",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Yemen, Rep.",
+    "countryCode": "YEM",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "South Africa",
+    "countryCode": "ZAF",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Zambia",
+    "countryCode": "ZMB",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Zimbabwe",
+    "countryCode": "ZWE",
+    "indicatorName": "Mammal species, threatened",
+    "indicatorCode": "EN.MAM.THRD.NO"
+  }
+]

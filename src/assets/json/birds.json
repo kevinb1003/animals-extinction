@@ -1,0 +1,1901 @@
+[
+  {
+    "total": 2,
+    "countryName": "Aruba",
+    "countryCode": "ABW",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Afghanistan",
+    "countryCode": "AFG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Angola",
+    "countryCode": "AGO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Albania",
+    "countryCode": "ALB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Andorra",
+    "countryCode": "AND",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 319,
+    "countryName": "Arab World",
+    "countryCode": "ARB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "United Arab Emirates",
+    "countryCode": "ARE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Argentina",
+    "countryCode": "ARG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Armenia",
+    "countryCode": "ARM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "American Samoa",
+    "countryCode": "ASM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "ATG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Australia",
+    "countryCode": "AUS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Austria",
+    "countryCode": "AUT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Azerbaijan",
+    "countryCode": "AZE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Burundi",
+    "countryCode": "BDI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Belgium",
+    "countryCode": "BEL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Benin",
+    "countryCode": "BEN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Burkina Faso",
+    "countryCode": "BFA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 36,
+    "countryName": "Bangladesh",
+    "countryCode": "BGD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Bulgaria",
+    "countryCode": "BGR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Bahrain",
+    "countryCode": "BHR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Bahamas, The",
+    "countryCode": "BHS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BIH",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Belarus",
+    "countryCode": "BLR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Belize",
+    "countryCode": "BLZ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Bermuda",
+    "countryCode": "BMU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 55,
+    "countryName": "Bolivia",
+    "countryCode": "BOL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 175,
+    "countryName": "Brazil",
+    "countryCode": "BRA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Barbados",
+    "countryCode": "BRB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Brunei Darussalam",
+    "countryCode": "BRN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Bhutan",
+    "countryCode": "BTN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Botswana",
+    "countryCode": "BWA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Central African Republic",
+    "countryCode": "CAF",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Canada",
+    "countryCode": "CAN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 133,
+    "countryName": "Central Europe and the Baltics",
+    "countryCode": "CEB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Switzerland",
+    "countryCode": "CHE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Channel Islands",
+    "countryCode": "CHI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "Chile",
+    "countryCode": "CHL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 96,
+    "countryName": "China",
+    "countryCode": "CHN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Cote d'Ivoire",
+    "countryCode": "CIV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Cameroon",
+    "countryCode": "CMR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 42,
+    "countryName": "Congo, Dem. Rep.",
+    "countryCode": "COD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Congo, Rep.",
+    "countryCode": "COG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 126,
+    "countryName": "Colombia",
+    "countryCode": "COL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Comoros",
+    "countryCode": "COM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Cabo Verde",
+    "countryCode": "CPV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 27,
+    "countryName": "Costa Rica",
+    "countryCode": "CRI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 87,
+    "countryName": "Caribbean small states",
+    "countryCode": "CSS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Cuba",
+    "countryCode": "CUB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Curacao",
+    "countryCode": "CUW",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Cayman Islands",
+    "countryCode": "CYM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Cyprus",
+    "countryCode": "CYP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Czech Republic",
+    "countryCode": "CZE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Germany",
+    "countryCode": "DEU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Djibouti",
+    "countryCode": "DJI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Dominica",
+    "countryCode": "DMA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Denmark",
+    "countryCode": "DNK",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Dominican Republic",
+    "countryCode": "DOM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Algeria",
+    "countryCode": "DZA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 830,
+    "countryName": "East Asia & Pacific (excluding high income)",
+    "countryCode": "EAP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1792,
+    "countryName": "Early-demographic dividend",
+    "countryCode": "EAR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1224,
+    "countryName": "East Asia & Pacific",
+    "countryCode": "EAS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 342,
+    "countryName": "Europe & Central Asia (excluding high income)",
+    "countryCode": "ECA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 678,
+    "countryName": "Europe & Central Asia",
+    "countryCode": "ECS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 106,
+    "countryName": "Ecuador",
+    "countryCode": "ECU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Egypt, Arab Rep.",
+    "countryCode": "EGY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 213,
+    "countryName": "Euro area",
+    "countryCode": "EMU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Eritrea",
+    "countryCode": "ERI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Spain",
+    "countryCode": "ESP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Estonia",
+    "countryCode": "EST",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "Ethiopia",
+    "countryCode": "ETH",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 325,
+    "countryName": "European Union",
+    "countryCode": "EUU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 620,
+    "countryName": "Fragile and conflict affected situations",
+    "countryCode": "FCS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Finland",
+    "countryCode": "FIN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Fiji",
+    "countryCode": "FJI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "France",
+    "countryCode": "FRA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Faroe Islands",
+    "countryCode": "FRO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Micronesia, Fed. Sts.",
+    "countryCode": "FSM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Gabon",
+    "countryCode": "GAB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "United Kingdom",
+    "countryCode": "GBR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Georgia",
+    "countryCode": "GEO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 23,
+    "countryName": "Ghana",
+    "countryCode": "GHA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Gibraltar",
+    "countryCode": "GIB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Guinea",
+    "countryCode": "GIN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Gambia, The",
+    "countryCode": "GMB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Guinea-Bissau",
+    "countryCode": "GNB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Equatorial Guinea",
+    "countryCode": "GNQ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Greece",
+    "countryCode": "GRC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Grenada",
+    "countryCode": "GRD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Greenland",
+    "countryCode": "GRL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Guatemala",
+    "countryCode": "GTM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Guam",
+    "countryCode": "GUM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Guyana",
+    "countryCode": "GUY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1092,
+    "countryName": "High income",
+    "countryCode": "HIC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Hong Kong SAR, China",
+    "countryCode": "HKG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Honduras",
+    "countryCode": "HND",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 823,
+    "countryName": "Heavily indebted poor countries (HIPC)",
+    "countryCode": "HPC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Croatia",
+    "countryCode": "HRV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Haiti",
+    "countryCode": "HTI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Hungary",
+    "countryCode": "HUN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2241,
+    "countryName": "IBRD only",
+    "countryCode": "IBD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3647,
+    "countryName": "IDA & IBRD total",
+    "countryCode": "IBT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1406,
+    "countryName": "IDA total",
+    "countryCode": "IDA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 293,
+    "countryName": "IDA blend",
+    "countryCode": "IDB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 160,
+    "countryName": "Indonesia",
+    "countryCode": "IDN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1113,
+    "countryName": "IDA only",
+    "countryCode": "IDX",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Isle of Man",
+    "countryCode": "IMN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 93,
+    "countryName": "India",
+    "countryCode": "IND",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Not classified",
+    "countryCode": "INX",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Ireland",
+    "countryCode": "IRL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "Iran, Islamic Rep.",
+    "countryCode": "IRN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Iraq",
+    "countryCode": "IRQ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Iceland",
+    "countryCode": "ISL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Israel",
+    "countryCode": "ISR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Italy",
+    "countryCode": "ITA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Jamaica",
+    "countryCode": "JAM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Jordan",
+    "countryCode": "JOR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 49,
+    "countryName": "Japan",
+    "countryCode": "JPN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 27,
+    "countryName": "Kazakhstan",
+    "countryCode": "KAZ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 44,
+    "countryName": "Kenya",
+    "countryCode": "KEN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Kyrgyz Republic",
+    "countryCode": "KGZ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Cambodia",
+    "countryCode": "KHM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Kiribati",
+    "countryCode": "KIR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "St. Kitts and Nevis",
+    "countryCode": "KNA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Korea, Rep.",
+    "countryCode": "KOR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Kuwait",
+    "countryCode": "KWT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 980,
+    "countryName": "Latin America & Caribbean (excluding high income)",
+    "countryCode": "LAC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Lao PDR",
+    "countryCode": "LAO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Lebanon",
+    "countryCode": "LBN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Liberia",
+    "countryCode": "LBR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Libya",
+    "countryCode": "LBY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "St. Lucia",
+    "countryCode": "LCA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1117,
+    "countryName": "Latin America & Caribbean",
+    "countryCode": "LCN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 982,
+    "countryName": "Least developed countries: UN classification",
+    "countryCode": "LDC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 663,
+    "countryName": "Low income",
+    "countryCode": "LIC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Liechtenstein",
+    "countryCode": "LIE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Sri Lanka",
+    "countryCode": "LKA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1286,
+    "countryName": "Lower middle income",
+    "countryCode": "LMC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3581,
+    "countryName": "Low & middle income",
+    "countryCode": "LMY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Lesotho",
+    "countryCode": "LSO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1303,
+    "countryName": "Late-demographic dividend",
+    "countryCode": "LTE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Lithuania",
+    "countryCode": "LTU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Luxembourg",
+    "countryCode": "LUX",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Latvia",
+    "countryCode": "LVA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Macao SAR, China",
+    "countryCode": "MAC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "St. Martin (French part)",
+    "countryCode": "MAF",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Morocco",
+    "countryCode": "MAR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Monaco",
+    "countryCode": "MCO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Moldova",
+    "countryCode": "MDA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 37,
+    "countryName": "Madagascar",
+    "countryCode": "MDG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Maldives",
+    "countryCode": "MDV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 290,
+    "countryName": "Middle East & North Africa",
+    "countryCode": "MEA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 71,
+    "countryName": "Mexico",
+    "countryCode": "MEX",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Marshall Islands",
+    "countryCode": "MHL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2918,
+    "countryName": "Middle income",
+    "countryCode": "MIC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "North Macedonia",
+    "countryCode": "MKD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Mali",
+    "countryCode": "MLI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Malta",
+    "countryCode": "MLT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 56,
+    "countryName": "Myanmar",
+    "countryCode": "MMR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 196,
+    "countryName": "Middle East & North Africa (excluding high income)",
+    "countryCode": "MNA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Montenegro",
+    "countryCode": "MNE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Mongolia",
+    "countryCode": "MNG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Northern Mariana Islands",
+    "countryCode": "MNP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Mozambique",
+    "countryCode": "MOZ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Mauritania",
+    "countryCode": "MRT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Mauritius",
+    "countryCode": "MUS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Malawi",
+    "countryCode": "MWI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 63,
+    "countryName": "Malaysia",
+    "countryCode": "MYS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 118,
+    "countryName": "North America",
+    "countryCode": "NAC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Namibia",
+    "countryCode": "NAM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "New Caledonia",
+    "countryCode": "NCL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Niger",
+    "countryCode": "NER",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Nigeria",
+    "countryCode": "NGA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Nicaragua",
+    "countryCode": "NIC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Netherlands",
+    "countryCode": "NLD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Norway",
+    "countryCode": "NOR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 38,
+    "countryName": "Nepal",
+    "countryCode": "NPL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Nauru",
+    "countryCode": "NRU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 69,
+    "countryName": "New Zealand",
+    "countryCode": "NZL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 754,
+    "countryName": "OECD members",
+    "countryCode": "OED",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Oman",
+    "countryCode": "OMN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 293,
+    "countryName": "Other small states",
+    "countryCode": "OSS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Pakistan",
+    "countryCode": "PAK",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Panama",
+    "countryCode": "PAN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 119,
+    "countryName": "Peru",
+    "countryCode": "PER",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 93,
+    "countryName": "Philippines",
+    "countryCode": "PHL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Palau",
+    "countryCode": "PLW",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 39,
+    "countryName": "Papua New Guinea",
+    "countryCode": "PNG",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Poland",
+    "countryCode": "POL",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 761,
+    "countryName": "Pre-demographic dividend",
+    "countryCode": "PRE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Puerto Rico",
+    "countryCode": "PRI",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Korea, Dem. People’s Rep.",
+    "countryCode": "PRK",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Portugal",
+    "countryCode": "PRT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 27,
+    "countryName": "Paraguay",
+    "countryCode": "PRY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "West Bank and Gaza",
+    "countryCode": "PSE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 88,
+    "countryName": "Pacific island small states",
+    "countryCode": "PSS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 693,
+    "countryName": "Post-demographic dividend",
+    "countryCode": "PST",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "French Polynesia",
+    "countryCode": "PYF",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Qatar",
+    "countryCode": "QAT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Romania",
+    "countryCode": "ROU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 57,
+    "countryName": "Russian Federation",
+    "countryCode": "RUS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Rwanda",
+    "countryCode": "RWA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 253,
+    "countryName": "South Asia",
+    "countryCode": "SAS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Saudi Arabia",
+    "countryCode": "SAU",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 26,
+    "countryName": "Sudan",
+    "countryCode": "SDN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Senegal",
+    "countryCode": "SEN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Singapore",
+    "countryCode": "SGP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Solomon Islands",
+    "countryCode": "SLB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Sierra Leone",
+    "countryCode": "SLE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "El Salvador",
+    "countryCode": "SLV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "San Marino",
+    "countryCode": "SMR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Somalia",
+    "countryCode": "SOM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Serbia",
+    "countryCode": "SRB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 980,
+    "countryName": "Sub-Saharan Africa (excluding high income)",
+    "countryCode": "SSA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "South Sudan",
+    "countryCode": "SSD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 993,
+    "countryName": "Sub-Saharan Africa",
+    "countryCode": "SSF",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 468,
+    "countryName": "Small states",
+    "countryCode": "SST",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Sao Tome and Principe",
+    "countryCode": "STP",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Suriname",
+    "countryCode": "SUR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "Slovak Republic",
+    "countryCode": "SVK",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 10,
+    "countryName": "Slovenia",
+    "countryCode": "SVN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Sweden",
+    "countryCode": "SWE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Eswatini",
+    "countryCode": "SWZ",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Sint Maarten (Dutch part)",
+    "countryCode": "SXM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Seychelles",
+    "countryCode": "SYC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Syrian Arab Republic",
+    "countryCode": "SYR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Turks and Caicos Islands",
+    "countryCode": "TCA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Chad",
+    "countryCode": "TCD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 799,
+    "countryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "countryCode": "TEA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 367,
+    "countryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "countryCode": "TEC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Togo",
+    "countryCode": "TGO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 62,
+    "countryName": "Thailand",
+    "countryCode": "THA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Tajikistan",
+    "countryCode": "TJK",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Turkmenistan",
+    "countryCode": "TKM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1054,
+    "countryName": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "countryCode": "TLA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Timor-Leste",
+    "countryCode": "TLS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 181,
+    "countryName": "Middle East & North Africa (IDA & IBRD countries)",
+    "countryCode": "TMN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Tonga",
+    "countryCode": "TON",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 253,
+    "countryName": "South Asia (IDA & IBRD)",
+    "countryCode": "TSA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 993,
+    "countryName": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "countryCode": "TSS",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Trinidad and Tobago",
+    "countryCode": "TTO",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Tunisia",
+    "countryCode": "TUN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Turkey",
+    "countryCode": "TUR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Tuvalu",
+    "countryCode": "TUV",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 49,
+    "countryName": "Tanzania",
+    "countryCode": "TZA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Uganda",
+    "countryCode": "UGA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Ukraine",
+    "countryCode": "UKR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 1632,
+    "countryName": "Upper middle income",
+    "countryCode": "UMC",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Uruguay",
+    "countryCode": "URY",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 91,
+    "countryName": "United States",
+    "countryCode": "USA",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Uzbekistan",
+    "countryCode": "UZB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "St. Vincent and the Grenadines",
+    "countryCode": "VCT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Venezuela, RB",
+    "countryCode": "VEN",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "British Virgin Islands",
+    "countryCode": "VGB",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Virgin Islands (U.S.)",
+    "countryCode": "VIR",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Vietnam",
+    "countryCode": "VNM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Vanuatu",
+    "countryCode": "VUT",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "1960": "",
+    "1961": "",
+    "1962": "",
+    "1963": "",
+    "1964": "",
+    "1965": "",
+    "1966": "",
+    "1967": "",
+    "1968": "",
+    "1969": "",
+    "1970": "",
+    "1971": "",
+    "1972": "",
+    "1973": "",
+    "1974": "",
+    "1975": "",
+    "1976": "",
+    "1977": "",
+    "1978": "",
+    "1979": "",
+    "1980": "",
+    "1981": "",
+    "1982": "",
+    "1983": "",
+    "1984": "",
+    "1985": "",
+    "1986": "",
+    "1987": "",
+    "1988": "",
+    "1989": "",
+    "1990": "",
+    "1991": "",
+    "1992": "",
+    "1993": "",
+    "1994": "",
+    "1995": "",
+    "1996": "",
+    "1997": "",
+    "1998": "",
+    "1999": "",
+    "2000": "",
+    "2001": "",
+    "2002": "",
+    "2003": "",
+    "2004": "",
+    "2005": "",
+    "2006": "",
+    "2007": "",
+    "2008": "",
+    "2009": "",
+    "2010": "",
+    "2011": "",
+    "2012": "",
+    "2013": "",
+    "2014": "",
+    "2015": "",
+    "2016": "",
+    "2017": 4584,
+    "total": "",
+    "countryName": "World",
+    "countryCode": "WLD",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Samoa",
+    "countryCode": "WSM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Kosovo",
+    "countryCode": "XKX",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Yemen, Rep.",
+    "countryCode": "YEM",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 54,
+    "countryName": "South Africa",
+    "countryCode": "ZAF",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Zimbabwe",
+    "countryCode": "ZWE",
+    "indicatorName": "Bird species, threatened",
+    "indicatorCode": "EN.BIR.THRD.NO"
+  }
+]
