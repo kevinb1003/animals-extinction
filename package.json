@@ -9,11 +9,14 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-map-gl": "^5.2.7",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "styled-jsx": "3.2.5",
+    "customize-cra": "0.9.1",
+    "react-app-rewired": "2.1.6"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

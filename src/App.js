@@ -20,11 +20,9 @@ class App extends Component {
   state = {
     mapData: [],
     viewport: {
-      width: "100%",
-      height: "100%",
       latitude: 0,
       longitude: 0,
-      zoom: 1,
+      zoom: 1.5,
     },
     type: SPECIES.MAMMALS,
   }
@@ -69,14 +67,22 @@ class App extends Component {
 
     return (
       <>
-        <button onClick={() => this.setState({ type: SPECIES.BIRDS })}>Birds {SPECIES.BIRDS === type  && '|ACTIVE|'}</button>
-        <button onClick={() => this.setState({ type: SPECIES.MAMMALS })}>
-          Mammals {SPECIES.MAMMALS === type  && '|ACTIVE|'}
+        <button onClick={() => this.setState({ type: SPECIES.BIRDS })}>
+          Birds {SPECIES.BIRDS === type && "|ACTIVE|"}
         </button>
+        <button onClick={() => this.setState({ type: SPECIES.MAMMALS })}>
+          Mammals {SPECIES.MAMMALS === type && "|ACTIVE|"}
+        </button>
+        <p className="sub-title">
+          The ongoing sixth mass extinction is the result of the destruction of
+          populations leading to eventual extirpation of entire species. Every
+          time a species or population vanishes, Earth’s capability to maintain
+          ecosystem services is eroded to a degree.
+        </p>
         <ReactMapGL
           {...viewport}
           mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
-          width="1200px"
+          width="100%"
           height="800px"
           mapStyle="mapbox://styles/jaxdesign/ckb47lo0n2v931iqpf2ds9f2n"
           onViewportChange={(viewport) => this.setState({ viewport })}
@@ -100,6 +106,24 @@ class App extends Component {
             }
           })}
         </ReactMapGL>
+        <style jsx global>{`
+          body {
+            background-color: #d1d5d5;
+            margin: 0;
+            }
+          }
+          .sub-title {
+            font-size: 22px;
+            font-weight: 600;
+            font-stretch: condensed;
+            line-height: 1.27;
+            color: #1e2837;
+            box-shadow: 10px 10px 15px 14px rgba(209,213,213,1);
+            position: relative;
+            bottom: -13px;
+            z-index: 1;
+            }
+        `}</style>
       </>
     )
   }
