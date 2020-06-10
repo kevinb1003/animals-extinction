@@ -45,7 +45,7 @@ class App extends Component {
   prepareData = (species) => {
     const mapData = JSON_LIST[species]
       .map((specie) => {
-        const coordsData = coords.find((c) => c.alpha3 === specie.code)
+        const coordsData = coords.find((c) => c.alpha3 === specie.countryCode)
 
         if (coordsData) {
           specie.longitude = coordsData.longitude
