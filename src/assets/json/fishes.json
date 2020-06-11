@@ -1,0 +1,1908 @@
+[
+  {
+    "total": 24,
+    "countryName": "Aruba",
+    "countryCode": "ABW",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Afghanistan",
+    "countryCode": "AFG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 53,
+    "countryName": "Angola",
+    "countryCode": "AGO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 44,
+    "countryName": "Albania",
+    "countryCode": "ALB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Andorra",
+    "countryCode": "AND",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 672,
+    "countryName": "Arab World",
+    "countryCode": "ARB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "United Arab Emirates",
+    "countryCode": "ARE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 42,
+    "countryName": "Argentina",
+    "countryCode": "ARG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Armenia",
+    "countryCode": "ARM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 12,
+    "countryName": "American Samoa",
+    "countryCode": "ASM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Antigua and Barbuda",
+    "countryCode": "ATG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 125,
+    "countryName": "Australia",
+    "countryCode": "AUS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Austria",
+    "countryCode": "AUT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Azerbaijan",
+    "countryCode": "AZE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Burundi",
+    "countryCode": "BDI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Belgium",
+    "countryCode": "BEL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 40,
+    "countryName": "Benin",
+    "countryCode": "BEN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Burkina Faso",
+    "countryCode": "BFA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Bangladesh",
+    "countryCode": "BGD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Bulgaria",
+    "countryCode": "BGR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Bahrain",
+    "countryCode": "BHR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 43,
+    "countryName": "Bahamas, The",
+    "countryCode": "BHS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 36,
+    "countryName": "Bosnia and Herzegovina",
+    "countryCode": "BIH",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Belarus",
+    "countryCode": "BLR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Belize",
+    "countryCode": "BLZ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 27,
+    "countryName": "Bermuda",
+    "countryCode": "BMU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Bolivia",
+    "countryCode": "BOL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 93,
+    "countryName": "Brazil",
+    "countryCode": "BRA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Barbados",
+    "countryCode": "BRB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Brunei Darussalam",
+    "countryCode": "BRN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Bhutan",
+    "countryCode": "BTN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Botswana",
+    "countryCode": "BWA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Central African Republic",
+    "countryCode": "CAF",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 44,
+    "countryName": "Canada",
+    "countryCode": "CAN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 182,
+    "countryName": "Central Europe and the Baltics",
+    "countryCode": "CEB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Switzerland",
+    "countryCode": "CHE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Channel Islands",
+    "countryCode": "CHI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 27,
+    "countryName": "Chile",
+    "countryCode": "CHL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 136,
+    "countryName": "China",
+    "countryCode": "CHN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 59,
+    "countryName": "Cote d'Ivoire",
+    "countryCode": "CIV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 122,
+    "countryName": "Cameroon",
+    "countryCode": "CMR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 94,
+    "countryName": "Congo, Dem. Rep.",
+    "countryCode": "COD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 57,
+    "countryName": "Congo, Rep.",
+    "countryCode": "COG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 99,
+    "countryName": "Colombia",
+    "countryCode": "COL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Comoros",
+    "countryCode": "COM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "Cabo Verde",
+    "countryCode": "CPV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 64,
+    "countryName": "Costa Rica",
+    "countryCode": "CRI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 429,
+    "countryName": "Caribbean small states",
+    "countryCode": "CSS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 44,
+    "countryName": "Cuba",
+    "countryCode": "CUB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "Curacao",
+    "countryCode": "CUW",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Cayman Islands",
+    "countryCode": "CYM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Cyprus",
+    "countryCode": "CYP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Czech Republic",
+    "countryCode": "CZE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Germany",
+    "countryCode": "DEU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 23,
+    "countryName": "Djibouti",
+    "countryCode": "DJI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Dominica",
+    "countryCode": "DMA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Denmark",
+    "countryCode": "DNK",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Dominican Republic",
+    "countryCode": "DOM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Algeria",
+    "countryCode": "DZA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1108,
+    "countryName": "East Asia & Pacific (excluding high income)",
+    "countryCode": "EAP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2603,
+    "countryName": "Early-demographic dividend",
+    "countryCode": "EAR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1630,
+    "countryName": "East Asia & Pacific",
+    "countryCode": "EAS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 458,
+    "countryName": "Europe & Central Asia (excluding high income)",
+    "countryCode": "ECA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1239,
+    "countryName": "Europe & Central Asia",
+    "countryCode": "ECS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 61,
+    "countryName": "Ecuador",
+    "countryCode": "ECU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 58,
+    "countryName": "Egypt, Arab Rep.",
+    "countryCode": "EGY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 534,
+    "countryName": "Euro area",
+    "countryCode": "EMU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Eritrea",
+    "countryCode": "ERI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 83,
+    "countryName": "Spain",
+    "countryCode": "ESP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Estonia",
+    "countryCode": "EST",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Ethiopia",
+    "countryCode": "ETH",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 742,
+    "countryName": "European Union",
+    "countryCode": "EUU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1039,
+    "countryName": "Fragile and conflict affected situations",
+    "countryCode": "FCS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Finland",
+    "countryCode": "FIN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Fiji",
+    "countryCode": "FJI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 53,
+    "countryName": "France",
+    "countryCode": "FRA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Faroe Islands",
+    "countryCode": "FRO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Micronesia, Fed. Sts.",
+    "countryCode": "FSM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 72,
+    "countryName": "Gabon",
+    "countryCode": "GAB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 48,
+    "countryName": "United Kingdom",
+    "countryCode": "GBR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Georgia",
+    "countryCode": "GEO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 58,
+    "countryName": "Ghana",
+    "countryCode": "GHA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Gibraltar",
+    "countryCode": "GIB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 76,
+    "countryName": "Guinea",
+    "countryCode": "GIN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 35,
+    "countryName": "Gambia, The",
+    "countryCode": "GMB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Guinea-Bissau",
+    "countryCode": "GNB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 44,
+    "countryName": "Equatorial Guinea",
+    "countryCode": "GNQ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 80,
+    "countryName": "Greece",
+    "countryCode": "GRC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Grenada",
+    "countryCode": "GRD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Greenland",
+    "countryCode": "GRL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Guatemala",
+    "countryCode": "GTM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Guam",
+    "countryCode": "GUM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Guyana",
+    "countryCode": "GUY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2433,
+    "countryName": "High income",
+    "countryCode": "HIC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Hong Kong SAR, China",
+    "countryCode": "HKG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Honduras",
+    "countryCode": "HND",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1662,
+    "countryName": "Heavily indebted poor countries (HIPC)",
+    "countryCode": "HPC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 64,
+    "countryName": "Croatia",
+    "countryCode": "HRV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Haiti",
+    "countryCode": "HTI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Hungary",
+    "countryCode": "HUN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3271,
+    "countryName": "IBRD only",
+    "countryCode": "IBD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5873,
+    "countryName": "IDA & IBRD total",
+    "countryCode": "IBT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2602,
+    "countryName": "IDA total",
+    "countryCode": "IDA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 641,
+    "countryName": "IDA blend",
+    "countryCode": "IDB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 166,
+    "countryName": "Indonesia",
+    "countryCode": "IDN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1961,
+    "countryName": "IDA only",
+    "countryCode": "IDX",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Isle of Man",
+    "countryCode": "IMN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 227,
+    "countryName": "India",
+    "countryCode": "IND",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Not classified",
+    "countryCode": "INX",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "Ireland",
+    "countryCode": "IRL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 47,
+    "countryName": "Iran, Islamic Rep.",
+    "countryCode": "IRN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 19,
+    "countryName": "Iraq",
+    "countryCode": "IRQ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Iceland",
+    "countryCode": "ISL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 50,
+    "countryName": "Israel",
+    "countryCode": "ISR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Italy",
+    "countryCode": "ITA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Jamaica",
+    "countryCode": "JAM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Jordan",
+    "countryCode": "JOR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 77,
+    "countryName": "Japan",
+    "countryCode": "JPN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Kazakhstan",
+    "countryCode": "KAZ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 74,
+    "countryName": "Kenya",
+    "countryCode": "KEN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Kyrgyz Republic",
+    "countryCode": "KGZ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 48,
+    "countryName": "Cambodia",
+    "countryCode": "KHM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Kiribati",
+    "countryCode": "KIR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "St. Kitts and Nevis",
+    "countryCode": "KNA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "Korea, Rep.",
+    "countryCode": "KOR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Kuwait",
+    "countryCode": "KWT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1150,
+    "countryName": "Latin America & Caribbean (excluding high income)",
+    "countryCode": "LAC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 55,
+    "countryName": "Lao PDR",
+    "countryCode": "LAO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "Lebanon",
+    "countryCode": "LBN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 64,
+    "countryName": "Liberia",
+    "countryCode": "LBR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Libya",
+    "countryCode": "LBY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "St. Lucia",
+    "countryCode": "LCA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1716,
+    "countryName": "Latin America & Caribbean",
+    "countryCode": "LCN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1634,
+    "countryName": "Least developed countries: UN classification",
+    "countryCode": "LDC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1172,
+    "countryName": "Low income",
+    "countryCode": "LIC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Liechtenstein",
+    "countryCode": "LIE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 57,
+    "countryName": "Sri Lanka",
+    "countryCode": "LKA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Lower middle income",
+    "countryCode": "LMC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5607,
+    "countryName": "Low & middle income",
+    "countryCode": "LMY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Lesotho",
+    "countryCode": "LSO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1786,
+    "countryName": "Late-demographic dividend",
+    "countryCode": "LTE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Lithuania",
+    "countryCode": "LTU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Luxembourg",
+    "countryCode": "LUX",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 6,
+    "countryName": "Latvia",
+    "countryCode": "LVA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 9,
+    "countryName": "Macao SAR, China",
+    "countryCode": "MAC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "St. Martin (French part)",
+    "countryCode": "MAF",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 54,
+    "countryName": "Morocco",
+    "countryCode": "MAR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Monaco",
+    "countryCode": "MCO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Moldova",
+    "countryCode": "MDA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 111,
+    "countryName": "Madagascar",
+    "countryCode": "MDG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Maldives",
+    "countryCode": "MDV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 672,
+    "countryName": "Middle East & North Africa",
+    "countryCode": "MEA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 181,
+    "countryName": "Mexico",
+    "countryCode": "MEX",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Marshall Islands",
+    "countryCode": "MHL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 4435,
+    "countryName": "Middle income",
+    "countryCode": "MIC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "North Macedonia",
+    "countryCode": "MKD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Mali",
+    "countryCode": "MLI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Malta",
+    "countryCode": "MLT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 53,
+    "countryName": "Myanmar",
+    "countryCode": "MMR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 454,
+    "countryName": "Middle East & North Africa (excluding high income)",
+    "countryCode": "MNA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Montenegro",
+    "countryCode": "MNE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "Mongolia",
+    "countryCode": "MNG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 14,
+    "countryName": "Northern Mariana Islands",
+    "countryCode": "MNP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 72,
+    "countryName": "Mozambique",
+    "countryCode": "MOZ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Mauritania",
+    "countryCode": "MRT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Mauritius",
+    "countryCode": "MUS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 36,
+    "countryName": "Malawi",
+    "countryCode": "MWI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 87,
+    "countryName": "Malaysia",
+    "countryCode": "MYS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 322,
+    "countryName": "North America",
+    "countryCode": "NAC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Namibia",
+    "countryCode": "NAM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 37,
+    "countryName": "New Caledonia",
+    "countryCode": "NCL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 4,
+    "countryName": "Niger",
+    "countryCode": "NER",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 74,
+    "countryName": "Nigeria",
+    "countryCode": "NGA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 40,
+    "countryName": "Nicaragua",
+    "countryCode": "NIC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Netherlands",
+    "countryCode": "NLD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 23,
+    "countryName": "Norway",
+    "countryCode": "NOR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Nepal",
+    "countryCode": "NPL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 11,
+    "countryName": "Nauru",
+    "countryCode": "NRU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 38,
+    "countryName": "New Zealand",
+    "countryCode": "NZL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1588,
+    "countryName": "OECD members",
+    "countryCode": "OED",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 36,
+    "countryName": "Oman",
+    "countryCode": "OMN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 556,
+    "countryName": "Other small states",
+    "countryCode": "OSS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 46,
+    "countryName": "Pakistan",
+    "countryCode": "PAK",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 57,
+    "countryName": "Panama",
+    "countryCode": "PAN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 52,
+    "countryName": "Peru",
+    "countryCode": "PER",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 91,
+    "countryName": "Philippines",
+    "countryCode": "PHL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 21,
+    "countryName": "Palau",
+    "countryCode": "PLW",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 61,
+    "countryName": "Papua New Guinea",
+    "countryCode": "PNG",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 8,
+    "countryName": "Poland",
+    "countryCode": "POL",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1679,
+    "countryName": "Pre-demographic dividend",
+    "countryCode": "PRE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Puerto Rico",
+    "countryCode": "PRI",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Korea, Dem. People’s Rep.",
+    "countryCode": "PRK",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 67,
+    "countryName": "Portugal",
+    "countryCode": "PRT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "Paraguay",
+    "countryCode": "PRY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2,
+    "countryName": "West Bank and Gaza",
+    "countryCode": "PSE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 196,
+    "countryName": "Pacific island small states",
+    "countryCode": "PSS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1458,
+    "countryName": "Post-demographic dividend",
+    "countryCode": "PST",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 28,
+    "countryName": "French Polynesia",
+    "countryCode": "PYF",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "Qatar",
+    "countryCode": "QAT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 22,
+    "countryName": "Romania",
+    "countryCode": "ROU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 39,
+    "countryName": "Russian Federation",
+    "countryCode": "RUS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Rwanda",
+    "countryCode": "RWA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 397,
+    "countryName": "South Asia",
+    "countryCode": "SAS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 41,
+    "countryName": "Saudi Arabia",
+    "countryCode": "SAU",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Sudan",
+    "countryCode": "SDN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 58,
+    "countryName": "Senegal",
+    "countryCode": "SEN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Singapore",
+    "countryCode": "SGP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Solomon Islands",
+    "countryCode": "SLB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 57,
+    "countryName": "Sierra Leone",
+    "countryCode": "SLE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 17,
+    "countryName": "El Salvador",
+    "countryCode": "SLV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "San Marino",
+    "countryCode": "SMR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Somalia",
+    "countryCode": "SOM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Serbia",
+    "countryCode": "SRB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2040,
+    "countryName": "Sub-Saharan Africa (excluding high income)",
+    "countryCode": "SSA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 0,
+    "countryName": "South Sudan",
+    "countryCode": "SSD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2064,
+    "countryName": "Sub-Saharan Africa",
+    "countryCode": "SSF",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1181,
+    "countryName": "Small states",
+    "countryCode": "SST",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 25,
+    "countryName": "Sao Tome and Principe",
+    "countryCode": "STP",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 32,
+    "countryName": "Suriname",
+    "countryCode": "SUR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Slovak Republic",
+    "countryCode": "SVK",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 33,
+    "countryName": "Slovenia",
+    "countryCode": "SVN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 15,
+    "countryName": "Sweden",
+    "countryCode": "SWE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Eswatini",
+    "countryCode": "SWZ",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "Sint Maarten (Dutch part)",
+    "countryCode": "SXM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Seychelles",
+    "countryCode": "SYC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 51,
+    "countryName": "Syrian Arab Republic",
+    "countryCode": "SYR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 30,
+    "countryName": "Turks and Caicos Islands",
+    "countryCode": "TCA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1,
+    "countryName": "Chad",
+    "countryCode": "TCD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1097,
+    "countryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "countryCode": "TEA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 530,
+    "countryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "countryCode": "TEC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 38,
+    "countryName": "Togo",
+    "countryCode": "TGO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 106,
+    "countryName": "Thailand",
+    "countryCode": "THA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 5,
+    "countryName": "Tajikistan",
+    "countryCode": "TJK",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Turkmenistan",
+    "countryCode": "TKM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 1333,
+    "countryName": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "countryCode": "TLA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Timor-Leste",
+    "countryCode": "TLS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 452,
+    "countryName": "Middle East & North Africa (IDA & IBRD countries)",
+    "countryCode": "TMN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Tonga",
+    "countryCode": "TON",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 397,
+    "countryName": "South Asia (IDA & IBRD)",
+    "countryCode": "TSA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2064,
+    "countryName": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "countryCode": "TSS",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 37,
+    "countryName": "Trinidad and Tobago",
+    "countryCode": "TTO",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 39,
+    "countryName": "Tunisia",
+    "countryCode": "TUN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 131,
+    "countryName": "Turkey",
+    "countryCode": "TUR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 13,
+    "countryName": "Tuvalu",
+    "countryCode": "TUV",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 179,
+    "countryName": "Tanzania",
+    "countryCode": "TZA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 60,
+    "countryName": "Uganda",
+    "countryCode": "UGA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 24,
+    "countryName": "Ukraine",
+    "countryCode": "UKR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 2417,
+    "countryName": "Upper middle income",
+    "countryCode": "UMC",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Uruguay",
+    "countryCode": "URY",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 251,
+    "countryName": "United States",
+    "countryCode": "USA",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 7,
+    "countryName": "Uzbekistan",
+    "countryCode": "UZB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "St. Vincent and the Grenadines",
+    "countryCode": "VCT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 45,
+    "countryName": "Venezuela, RB",
+    "countryCode": "VEN",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 31,
+    "countryName": "British Virgin Islands",
+    "countryCode": "VGB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 29,
+    "countryName": "Virgin Islands (U.S.)",
+    "countryCode": "VIR",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 83,
+    "countryName": "Vietnam",
+    "countryCode": "VNM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 18,
+    "countryName": "Vanuatu",
+    "countryCode": "VUT",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "1960": "",
+    "1961": "",
+    "1962": "",
+    "1963": "",
+    "1964": "",
+    "1965": "",
+    "1966": "",
+    "1967": "",
+    "1968": "",
+    "1969": "",
+    "1970": "",
+    "1971": "",
+    "1972": "",
+    "1973": "",
+    "1974": "",
+    "1975": "",
+    "1976": "",
+    "1977": "",
+    "1978": "",
+    "1979": "",
+    "1980": "",
+    "1981": "",
+    "1982": "",
+    "1983": "",
+    "1984": "",
+    "1985": "",
+    "1986": "",
+    "1987": "",
+    "1988": "",
+    "1989": "",
+    "1990": "",
+    "1991": "",
+    "1992": "",
+    "1993": "",
+    "1994": "",
+    "1995": "",
+    "1996": "",
+    "1997": "",
+    "1998": "",
+    "1999": "",
+    "2000": "",
+    "2001": "",
+    "2002": "",
+    "2003": "",
+    "2004": "",
+    "2005": "",
+    "2006": "",
+    "2007": "",
+    "2008": "",
+    "2009": "",
+    "2010": "",
+    "2011": "",
+    "2012": "",
+    "2013": "",
+    "2014": "",
+    "2015": "",
+    "2016": "",
+    "2017": 8233,
+    "total": "",
+    "countryName": "World",
+    "countryCode": "WLD",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 16,
+    "countryName": "Samoa",
+    "countryCode": "WSM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": "",
+    "countryName": "Kosovo",
+    "countryCode": "XKX",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 40,
+    "countryName": "Yemen, Rep.",
+    "countryCode": "YEM",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 121,
+    "countryName": "South Africa",
+    "countryCode": "ZAF",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 20,
+    "countryName": "Zambia",
+    "countryCode": "ZMB",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  },
+  {
+    "total": 3,
+    "countryName": "Zimbabwe",
+    "countryCode": "ZWE",
+    "indicatorName": "Fish species, threatened",
+    "indicatorCode": "EN.FSH.THRD.NO"
+  }
+]
