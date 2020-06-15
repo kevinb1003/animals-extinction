@@ -6,6 +6,9 @@ import GridItem from "./components/GridItem"
 import Grid from "./components/Grid"
 import Map from "./components/Map"
 import Footer from "./components/Footer.js"
+import birdIcon from "./assets/icons/bird.svg"
+import fishIcon from "./assets/icons/fish.svg"
+import elephantIcon from "./assets/icons/elephant.svg"
 
 const App = () => {
   const [mapData, setMapData] = useState([])
@@ -30,7 +33,7 @@ const App = () => {
     })
 
     setMapData(data)
-  }, [mapData])
+  }, [])
 
   const maxIconSize = Math.max(...mapData.map((specie) => specie.total))
 
@@ -46,16 +49,19 @@ const App = () => {
       />
       <Grid>
         <GridItem
-          title="20 percent of evaluated reptiles are threatened with extinction."
-          description="Ubiquitous toxins, global warming, nonnative predators, overcollection, habitat destruction and disease are key factors leading to their demise."
-        />
-        <GridItem
+          icon={fishIcon}
           title="Saltwater fish predicted to be extinct by 2048."
           description="Ubiquitous toxins, global warming, nonnative predators, overcollection, habitat destruction and disease are key factors leading to their demise."
         />
         <GridItem
-          title="20 percent of evaluated reptiles are threatened with extinction."
-          description="Ubiquitous toxins, global warming, nonnative predators, overcollection, habitat destruction and disease are key factors leading to their demise."
+          icon={birdIcon}
+          title="12% of bird species are on the IUCN Red List of threatened species."
+          description="The main causes are habitat loss, natural disasters, climate change, loss of food sources, hunting and poaching, invasive predators and egg collecting."
+        />
+        <GridItem
+          icon={elephantIcon}
+          title="Humans will cause so many mammal species to go extinct in the next 50 years that the planet's evolutionary diversity won't recover for 3 to 5 million years,"
+          description="a team of international researchers have found."
         />
       </Grid>
       <Footer />

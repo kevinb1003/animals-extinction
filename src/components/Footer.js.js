@@ -22,6 +22,17 @@ const Footer = () => (
         font-weight: 500;
         line-height: 1;
       }
+
+      @media screen and (max-width: 600px) {
+        footer {
+          margin: 20px;
+          margin-top: 30px;
+        }
+
+        author {
+          margin-top: 10px;
+        }
+      }
     `}</style>
   </footer>
 )

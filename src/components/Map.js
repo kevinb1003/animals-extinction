@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import ReactMapGL, { Marker } from "react-map-gl"
+import ReactMapGL, { Marker, Popup } from "react-map-gl"
 import { ANIMAL_CODE } from "../constants"
 import mammalIcon from "../assets/icons/mammal-icon.svg"
 import birdIcon from "../assets/icons/bird-icon.svg"
@@ -18,11 +18,23 @@ const SpecieIcon = ({ indicatorCode, ...props }) => {
   }
 }
 
+const getLonAndLat = (indicatorCode, longitude, latitude) => {
+  switch (indicatorCode) {
+    case ANIMAL_CODE.MAMMAL:
+      return { longitude: longitude, latitude }
+    case ANIMAL_CODE.BIRD:
+      return { longitude: longitude, latitude }
+    default:
+      return { longitude, latitude }
+  }
+}
+
 const Map = ({ data, maxIconSize, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: 1.5,
   })
-
+  const [popup, setPopup] = useState(null)
+  console.log(viewport.zoom / (5 / 100))
   return (
     <>
       <ReactMapGL
@@ -34,24 +46,45 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
         onViewportChange={(viewport) => setViewport(viewport)}
       >
         {data.map((country, index) => {
-          if (country.longitude && country.latitude) {
+          if (country.total && country.longitude && country.latitude) {
+            const coords = getLonAndLat(
+              country.indicatorCode,
+              country.longitude,
+              country.latitude
+            )
+
             return (
               <Marker
                 key={index}
-                longitude={country.longitude}
-                latitude={country.latitude}
+                longitude={coords.longitude}
+                latitude={coords.latitude}
+                offsetLeft={30}
               >
-                <SpecieIcon
-                  indicatorCode={country.indicatorCode}
-                  style={{
-                    opacity: `${country.total / (maxIconSize / 100)}`,
-                    width: `${country.total / (maxIconSize / 100)}%`,
-                  }}
-                />
+                <div onClick={() => setPopup({ ...country })}>
+                  <SpecieIcon
+                    indicatorCode={country.indicatorCode}
+                    style={{
+                      width: `${country.total / (maxIconSize / 100)}%`,
+                      //minWidth: `${viewport.zoom / (7 / 100)}%`,
+                    }}
+                  />
+                </div>
               </Marker>
             )
           }
         })}
+
+        {popup && (
+          <Popup
+            tipSize={5}
+            longitude={popup.longitude}
+            latitude={popup.latitude}
+            onClose={() => setPopup(null)}
+          >
+            {popup.countryName} <br />
+            {popup.indicatorName}: {popup.total}
+          </Popup>
+        )}
       </ReactMapGL>
       <p className="map-title">{mapTitle}</p>
       <style global jsx>{`
@@ -62,6 +95,15 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
         .map-title {
           margin-left: 40px;
           margin-right: 40px;
+        }
+
+        @media screen and (max-width: 600px) {
+          .map-title {
+            margin-top: 0;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 40px;
+          }
         }
       `}</style>
     </>

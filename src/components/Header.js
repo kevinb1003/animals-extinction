@@ -2,7 +2,7 @@ import React from "react"
 
 const Header = () => (
   <div className="header">
-    <h1>Endangered Species of Birds, Reptiles, Mammals, and Fish by Country</h1>
+    <h1>Endangered Species of Birds, Mammals, and Fish by Country</h1>
     <p>
       The ongoing sixth mass extinction is the result of the destruction of
       populations leading to eventual extirpation of entire species. Every time
@@ -24,6 +24,12 @@ const Header = () => (
         font-family: "GTSuperTextBlack";
         font-size: 40px;
         margin: 0;
+      }
+
+      @media screen and (max-width: 600px) {
+        .header {
+          padding: 20px;
+        }
       }
     `}</style>
   </div>
