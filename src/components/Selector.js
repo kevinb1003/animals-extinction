@@ -10,7 +10,7 @@ const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
         className={`selector-button ${selectedOption === i ? "active" : ""}`}
         onClick={() => option.onClick(i)}
       >
-        <img src={option.icon} alt="Icon" /> {option.label}
+        {option.icon} {option.label}
       </div>
     ))}
     <style jsx>
@@ -44,7 +44,7 @@ const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
           justify-content: center;
           font-family: AvenirNextRegular;
           font-size: 18px;
-          line-height: 1;
+          line-height: 1px;
           height: 30px;
           color: #1e2837;
           border: solid 2px #1e2837;
@@ -71,10 +71,10 @@ const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
           border-bottom-right-radius: 4px;
         }
 
-        img {
-          width: 10px;
+        img, :global(.circle) {
           margin-right: 5px;
         }
+        
       `}
     </style>
   </div>

@@ -9,10 +9,8 @@ import Footer from "./components/Footer.js"
 import birdIcon from "./assets/icons/bird.svg"
 import fishIcon from "./assets/icons/fish.svg"
 import elephantIcon from "./assets/icons/elephant.svg"
-import mammalIcon from "./assets/icons/mammal-icon.svg"
-import fishIcon2 from "./assets/icons/fish-icon.svg"
-import birdIcon2 from "./assets/icons/bird-icon.svg"
 import Selector from "./components/Selector"
+import Circle from "./components/Circle"
 
 const App = () => {
   const [mapData, setMapData] = useState([])
@@ -38,8 +36,6 @@ const App = () => {
     setMapData(data)
   }, [selectedOption])
 
-  const maxIconSize = Math.max(...mapData.map((specie) => specie.total))
-
   return (
     <>
       <div>
@@ -47,17 +43,17 @@ const App = () => {
         <Selector
           options={[
             {
-              icon: mammalIcon,
+              icon: <Circle color="#f54d4b" width="10px" height="10px" />,
               label: "Mammals",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: fishIcon2,
+              icon: <Circle color="#1771e4" width="10px" height="10px" />,
               label: "Fish",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: birdIcon2,
+              icon: <Circle color="#19c416" width="10px" height="10px" />,
               label: "Birds",
               onClick: (i) => selectOption(i),
             },
@@ -68,7 +64,6 @@ const App = () => {
       </div>
       <Map
         data={mapData}
-        maxIconSize={maxIconSize}
         mapTitle="The International Union for the Conservation of Nature predicts that
         99.9 percent of critically endangered species and 67 percent of
         endangered species will be lost within the next 100 years."

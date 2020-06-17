@@ -9,3 +9,5 @@ export const ANIMAL_CODE = {
 }
 
 export const JSON_LIST = [mammals, fish, birds]
+
+export const MAXMIUM_ENDAGERED_SPECIES = 400

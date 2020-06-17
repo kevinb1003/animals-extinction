@@ -1,27 +1,24 @@
 import React, { useState } from "react"
 import ReactMapGL, { Marker, Popup } from "react-map-gl"
-import { ANIMAL_CODE } from "../constants"
-import mammalIcon from "../assets/icons/mammal-icon.svg"
-import birdIcon from "../assets/icons/bird-icon.svg"
-import fishIcon from "../assets/icons/fish-icon.svg"
+import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES } from "../constants"
+import Circle from "./Circle"
 
 const SpecieIcon = ({ indicatorCode, ...props }) => {
   switch (indicatorCode) {
     case ANIMAL_CODE.MAMMAL:
-      return <img src={mammalIcon} alt="Marker" {...props} />
+      return <Circle color="#f54d4b" {...props} />
     case ANIMAL_CODE.BIRD:
-      return <img src={birdIcon} alt="Marker" {...props} />
+      return <Circle color="#19c416" {...props} />
     case ANIMAL_CODE.FISH:
-      return <img src={fishIcon} alt="Marker" {...props} />
+      return <Circle color="#1771e4" {...props} />
     default:
       return <></>
   }
 }
 
-const Map = ({ data, maxIconSize, mapTitle }) => {
+const Map = ({ data, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: 1.5,
-    scrollWheelZoom: false
   })
   const [popup, setPopup] = useState(null)
 
@@ -38,6 +35,7 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
       >
         {data.map((country, index) => {
           if (country.total && country.longitude && country.latitude) {
+
             return (
               <Marker
                 key={index}
@@ -47,10 +45,8 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
                 <div onClick={() => setPopup({ ...country })}>
                   <SpecieIcon
                     indicatorCode={country.indicatorCode}
-                    style={{
-                      width: `${country.total / (maxIconSize / 100)}%`,
-                      minWidth: `${viewport.zoom / (20 / 100)}%`,
-                    }}
+                    width={`${(country.total / MAXMIUM_ENDAGERED_SPECIES) * 100}px`}
+                    height={`${(country.total / MAXMIUM_ENDAGERED_SPECIES) * 100}px`}
                   />
                 </div>
               </Marker>
