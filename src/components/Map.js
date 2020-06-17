@@ -21,6 +21,7 @@ const SpecieIcon = ({ indicatorCode, ...props }) => {
 const Map = ({ data, maxIconSize, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: 1.5,
+    scrollWheelZoom: false
   })
   const [popup, setPopup] = useState(null)
 
@@ -28,6 +29,7 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
     <>
       <ReactMapGL
         {...viewport}
+        scrollZoom={false}
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         width="100%"
         height="500px"
