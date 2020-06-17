@@ -11,7 +11,7 @@ const Header = () => (
     </p>
     <style jsx global>{`
       .header {
-        box-shadow: 10px 10px 15px 14px rgba(209, 213, 213, 1);
+        box-shadow: 10px 10px 65px 75px rgba(209,213,213,1);
         position: relative;
         bottom: -13px;
         z-index: 1;
@@ -20,7 +20,7 @@ const Header = () => (
         padding-right: 40px;
       }
 
-      h1 {
+      .header h1 {
         font-family: "GTSuperTextBlack";
         font-size: 40px;
         margin: 0;

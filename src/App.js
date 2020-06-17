@@ -9,37 +9,63 @@ import Footer from "./components/Footer.js"
 import birdIcon from "./assets/icons/bird.svg"
 import fishIcon from "./assets/icons/fish.svg"
 import elephantIcon from "./assets/icons/elephant.svg"
+import mammalIcon from "./assets/icons/mammal-icon.svg"
+import fishIcon2 from "./assets/icons/fish-icon.svg"
+import birdIcon2 from "./assets/icons/bird-icon.svg"
+import Selector from "./components/Selector"
 
 const App = () => {
   const [mapData, setMapData] = useState([])
+  const [selectedOption, selectOption] = useState(0)
 
   useEffect(() => {
     const data = []
 
-    JSON_LIST.forEach((list) => {
-      list.forEach((specie) => {
-        const coordsData = coords.find((c) => c.alpha3 === specie.countryCode)
+    JSON_LIST[selectedOption].forEach((specie) => {
+      const coordsData = coords.find((c) => c.alpha3 === specie.countryCode)
 
-        if (coordsData) {
-          const specieData = {
-            ...specie,
-            longitude: coordsData.longitude,
-            latitude: coordsData.latitude,
-          }
-
-          data.push(specieData)
+      if (coordsData) {
+        const specieData = {
+          ...specie,
+          longitude: coordsData.longitude,
+          latitude: coordsData.latitude,
         }
-      })
+
+        data.push(specieData)
+      }
     })
 
     setMapData(data)
-  }, [])
+  }, [selectedOption])
 
   const maxIconSize = Math.max(...mapData.map((specie) => specie.total))
 
   return (
     <>
-      <Header />
+      <div>
+        <Header />
+        <Selector
+          options={[
+            {
+              icon: mammalIcon,
+              label: "Mammals",
+              onClick: (i) => selectOption(i),
+            },
+            {
+              icon: fishIcon2,
+              label: "Fish",
+              onClick: (i) => selectOption(i),
+            },
+            {
+              icon: birdIcon2,
+              label: "Birds",
+              onClick: (i) => selectOption(i),
+            },
+          ]}
+          selectedOption={selectedOption}
+          maxWidth="400px"
+        />
+      </div>
       <Map
         data={mapData}
         maxIconSize={maxIconSize}
@@ -49,6 +75,11 @@ const App = () => {
       />
       <Grid>
         <GridItem
+          icon={elephantIcon}
+          title="Humans will cause so many mammal species to go extinct in the next 50 years that the planet's evolutionary diversity won't recover for 3 to 5 million years,"
+          description="a team of international researchers have found."
+        />
+        <GridItem
           icon={fishIcon}
           title="Saltwater fish predicted to be extinct by 2048."
           description="Ubiquitous toxins, global warming, nonnative predators, overcollection, habitat destruction and disease are key factors leading to their demise."
@@ -57,11 +88,6 @@ const App = () => {
           icon={birdIcon}
           title="12% of bird species are on the IUCN Red List of threatened species."
           description="The main causes are habitat loss, natural disasters, climate change, loss of food sources, hunting and poaching, invasive predators and egg collecting."
-        />
-        <GridItem
-          icon={elephantIcon}
-          title="Humans will cause so many mammal species to go extinct in the next 50 years that the planet's evolutionary diversity won't recover for 3 to 5 million years,"
-          description="a team of international researchers have found."
         />
       </Grid>
       <Footer />

@@ -34,7 +34,7 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
     zoom: 1.5,
   })
   const [popup, setPopup] = useState(null)
-  console.log(viewport.zoom / (5 / 100))
+
   return (
     <>
       <ReactMapGL

@@ -1,6 +1,6 @@
 import mammals from "./assets/json/mammals.json"
 import birds from "./assets/json/birds.json"
-import fishes from "./assets/json/fishes.json"
+import fish from "./assets/json/fish.json"
 
 export const ANIMAL_CODE = {
   BIRD: 'EN.BIR.THRD.NO',
@@ -8,4 +8,4 @@ export const ANIMAL_CODE = {
   FISH: 'EN.FSH.THRD.NO'
 }
 
-export const JSON_LIST = [birds, mammals, fishes]
+export const JSON_LIST = [mammals, fish, birds]
