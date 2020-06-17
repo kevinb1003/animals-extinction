@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { Fragment, useState } from "react"
 import ReactMapGL, { Marker, Popup } from "react-map-gl"
 import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES } from "../constants"
 import Circle from "./Circle"
@@ -52,7 +52,7 @@ const Map = ({ data, mapTitle }) => {
               </Marker>
             )
           } else {
-            return <></>
+            return <Fragment key={index}></Fragment>
           }
         })}
 

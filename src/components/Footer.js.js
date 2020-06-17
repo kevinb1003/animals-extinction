@@ -9,12 +9,12 @@ const Footer = () => (
       >
         data.worldbank.org
       </a></span>
-    <author>
+    <div>
       Developed by{" "}
       <a
         href="https://github.com/kevinb1003"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="author noopener noreferrer"
       >
         Kevin Bristot
       </a>{" "}
@@ -22,11 +22,11 @@ const Footer = () => (
       <a
         href="https://jacksonwalker.design/"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="author noopener noreferrer"
       >
         Jackson Walker
       </a>
-    </author>
+    </div>
     <style jsx>{`
       footer {
         display: flex;
@@ -37,7 +37,7 @@ const Footer = () => (
       }
 
       footer .source,
-      author {
+      div {
         font-family: "AvenirNextRegular";
         font-size: 18px;
         font-weight: 500;
@@ -50,7 +50,7 @@ const Footer = () => (
           margin-top: 30px;
         }
 
-        author {
+        div {
           margin-top: 10px;
         }
       }
