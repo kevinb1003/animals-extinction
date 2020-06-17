@@ -53,6 +53,8 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
                 </div>
               </Marker>
             )
+          } else {
+            return <></>
           }
         })}
 
