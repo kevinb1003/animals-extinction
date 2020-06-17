@@ -18,17 +18,6 @@ const SpecieIcon = ({ indicatorCode, ...props }) => {
   }
 }
 
-const getLonAndLat = (indicatorCode, longitude, latitude) => {
-  switch (indicatorCode) {
-    case ANIMAL_CODE.MAMMAL:
-      return { longitude: longitude, latitude }
-    case ANIMAL_CODE.BIRD:
-      return { longitude: longitude, latitude }
-    default:
-      return { longitude, latitude }
-  }
-}
-
 const Map = ({ data, maxIconSize, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: 1.5,
@@ -47,25 +36,18 @@ const Map = ({ data, maxIconSize, mapTitle }) => {
       >
         {data.map((country, index) => {
           if (country.total && country.longitude && country.latitude) {
-            const coords = getLonAndLat(
-              country.indicatorCode,
-              country.longitude,
-              country.latitude
-            )
-
             return (
               <Marker
                 key={index}
-                longitude={coords.longitude}
-                latitude={coords.latitude}
-                offsetLeft={30}
+                longitude={country.longitude}
+                latitude={country.latitude}
               >
                 <div onClick={() => setPopup({ ...country })}>
                   <SpecieIcon
                     indicatorCode={country.indicatorCode}
                     style={{
                       width: `${country.total / (maxIconSize / 100)}%`,
-                      //minWidth: `${viewport.zoom / (7 / 100)}%`,
+                      minWidth: `${viewport.zoom / (20 / 100)}%`,
                     }}
                   />
                 </div>
