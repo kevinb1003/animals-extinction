@@ -71,10 +71,18 @@ const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
           border-bottom-right-radius: 4px;
         }
 
-        img, :global(.circle) {
+        img,
+        :global(.circle) {
           margin-right: 5px;
         }
-        
+
+        @media screen and (max-width: 600px) {
+          .selector-container {
+            top: 0;
+            margin-left: 20px;
+            width: 85%;
+          }
+        }
       `}
     </style>
   </div>
