@@ -9,7 +9,7 @@ const Header = () => (
       a species or population vanishes, Earth’s capability to maintain ecosystem
       services is eroded to a degree.
     </p>
-    <style jsx global>{`
+    <style jsx>{`
       .header {
         box-shadow: 10px 10px 65px 75px rgba(209,213,213,1);
         position: relative;
@@ -20,12 +20,16 @@ const Header = () => (
         padding-right: 40px;
       }
 
-      .header h1 {
+      h1 {
         font-family: "GTSuperTextBlack";
         font-size: 40px;
         margin: 0;
       }
 
+      p {
+        max-width: 1100px;
+      }
+  
       @media screen and (max-width: 600px) {
         .header {
           padding: 20px;

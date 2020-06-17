@@ -62,6 +62,7 @@ const Map = ({ data, mapTitle }) => {
             longitude={popup.longitude}
             latitude={popup.latitude}
             onClose={() => setPopup(null)}
+            className="popup"
           >
             {popup.countryName} <br />
             {popup.indicatorName}: {popup.total}
@@ -77,6 +78,11 @@ const Map = ({ data, mapTitle }) => {
         .map-title {
           margin-left: 40px;
           margin-right: 40px;
+          max-width: 1100px;
+        }
+
+        .popup .mapboxgl-popup-content {
+          padding: 10px 10px 5px;
         }
 
         @media screen and (max-width: 600px) {

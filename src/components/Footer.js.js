@@ -2,10 +2,30 @@ import React from "react"
 
 const Footer = () => (
   <footer>
-    <span className="source">Source: data.worldbank.org</span>
+    <span className="source">Source: <a
+        href="https://data.worldbank.org"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        data.worldbank.org
+      </a></span>
     <author>
-      Developed by <a href="mailto: bristotkevin1003@gmail.com">Kevin Bristot</a> and
-      Designed by <a href="mailto: jaxdesign@gmail.com">Jackson Walker</a>
+      Developed by{" "}
+      <a
+        href="https://github.com/kevinb1003"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Kevin Bristot
+      </a>{" "}
+      and Designed by{" "}
+      <a
+        href="https://jacksonwalker.design/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Jackson Walker
+      </a>
     </author>
     <style jsx>{`
       footer {
@@ -16,8 +36,9 @@ const Footer = () => (
         margin-top: 20px;
       }
 
-      footer .source, author {
-        font-family: 'AvenirNextRegular';
+      footer .source,
+      author {
+        font-family: "AvenirNextRegular";
         font-size: 18px;
         font-weight: 500;
         line-height: 1;
