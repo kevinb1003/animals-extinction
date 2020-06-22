@@ -1,7 +1,9 @@
 {
-  "name": "s",
+  "name": "animals-extinction",
   "version": "0.1.0",
-  "private": true,
+  "engines": {
+    "node": "12.16.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -9,10 +11,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-map-gl": "^5.2.7",
-    "react-scripts": "3.4.1",
-    "styled-jsx": "3.2.5",
-    "customize-cra": "0.9.1",
-    "react-app-rewired": "2.1.6"
+    "react-scripts": "^3.4.1",
+    "styled-jsx": "^3.2.5",
+    "customize-cra": "^0.9.1",
+    "react-app-rewired": "^2.1.6"
   },
   "scripts": {
     "start": "react-app-rewired start",
