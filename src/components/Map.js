@@ -1,4 +1,5 @@
 import React, { Fragment, useState } from "react"
+import PropTypes from "prop-types"
 import ReactMapGL, { Marker, Popup } from "react-map-gl"
 import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES } from "../constants"
 import Circle from "./Circle"
@@ -30,7 +31,7 @@ const Map = ({ data, mapTitle }) => {
         mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         width="100%"
         height="500px"
-        mapStyle="mapbox://styles/jaxdesign/ckb47lo0n2v931iqpf2ds9f2n"
+        mapStyle={process.env.REACT_APP_MAP_STYLE}
         onViewportChange={(viewport) => setViewport(viewport)}
       >
         {data.map((country, index) => {
@@ -96,6 +97,11 @@ const Map = ({ data, mapTitle }) => {
       `}</style>
     </>
   )
+}
+
+Map.propTypes = {
+  data: PropTypes.arrayOf(PropTypes.object).isRequired,
+  mapTitle: PropTypes.string.isRequired,
 }
 
 export default Map

@@ -1,4 +1,5 @@
 import React from "react"
+import PropTypes from "prop-types"
 
 const Grid = ({ children }) => (
   <div className="grid">
@@ -21,5 +22,9 @@ const Grid = ({ children }) => (
     `}</style>
   </div>
 )
+
+Grid.propTypes = {
+  children: PropTypes.node.isRequired,
+}
 
 export default Grid

@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Animals-extinction
+
+[http://animals-extinction.com/](http://animals-extinction.com/)
+
+Animals-extinction is an open source tool for viewing the latest data on totals of endangered animal species worldwide. The application uses data for bird, mammal, and fish species numbers but can work with other types of creatures as well.
+
+The tool was designed to raise awareness about the regions of the world that have the most to lose when it comes to animal species diversity.
+
+## Prerequisites
+
+1. Node.JS: `v12.16.1`
+2. Yarn: `1.22.4`
+
+## Steps
+
+1. Clone the repository
+2. `yarn`
+3. Set environment variables like in the table below
+
+| Name        | Meaning                   |
+|-------------|---------------------------|
+| REACT_APP_MAPBOX_TOKEN | mapbox.com access token  | 
+| REACT_APP_MAP_STYLE| mapbox.com map style url E.g:(mapbox://styles/jaxdesign/ckb47lo0n2v931iqpf2ds9f2n)  | 
 
 ## Available Scripts
 
@@ -36,33 +58,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

@@ -1,4 +1,5 @@
 import React from "react"
+import PropTypes from "prop-types"
 
 const Circle = ({ color, width, height }) => (
   <div className="circle">
@@ -14,5 +15,16 @@ const Circle = ({ color, width, height }) => (
     `}</style>
   </div>
 )
+
+Circle.defaultProps = {
+  width: "10px",
+  height: "10px"
+}
+
+Circle.propTypes = {
+  color: PropTypes.string.isRequired,
+  width: PropTypes.string,
+  height: PropTypes.string,
+}
 
 export default Circle

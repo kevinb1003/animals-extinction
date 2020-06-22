@@ -43,17 +43,17 @@ const App = () => {
         <Selector
           options={[
             {
-              icon: <Circle color="#f54d4b" width="10px" height="10px" />,
+              icon: <Circle color="#f54d4b" />,
               label: "Mammals",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: <Circle color="#1771e4" width="10px" height="10px" />,
+              icon: <Circle color="#1771e4" />,
               label: "Fish",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: <Circle color="#19c416" width="10px" height="10px" />,
+              icon: <Circle color="#19c416" />,
               label: "Birds",
               onClick: (i) => selectOption(i),
             },
