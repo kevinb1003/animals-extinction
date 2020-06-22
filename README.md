@@ -1,6 +1,6 @@
 # Animals-extinction
 
-[http://animals-extinction.com/](http://animals-extinction.com/) is an open source tool for viewing the latest data on totals of endangered animal species worldwide. The application uses data for bird, mammal, and fish species numbers but can work with other types of creatures as well.
+[animals-extinction](https://animals-extinction.com/) is an open source tool for viewing the latest data on totals of endangered animal species worldwide. The application uses data for bird, mammal, and fish species numbers but can work with other types of creatures as well.
 
 The tool was designed to raise awareness about the regions of the world that have the most to lose when it comes to animal species diversity.
 
