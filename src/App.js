@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import coords from "./assets/json/coords.json"
-import { JSON_LIST } from "./constants"
+import { JSON_LIST, ANIMAL_COLOR } from "./constants"
 import Header from "./components/Header"
 import GridItem from "./components/GridItem"
 import Grid from "./components/Grid"
@@ -43,17 +43,17 @@ const App = () => {
         <Selector
           options={[
             {
-              icon: <Circle color="#f54d4b" />,
+              icon: <Circle color={ANIMAL_COLOR.MAMMAL} />,
               label: "Mammals",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: <Circle color="#1771e4" />,
+              icon: <Circle color={ANIMAL_COLOR.FISH} />,
               label: "Fish",
               onClick: (i) => selectOption(i),
             },
             {
-              icon: <Circle color="#19c416" />,
+              icon: <Circle color={ANIMAL_COLOR.BIRD} />,
               label: "Birds",
               onClick: (i) => selectOption(i),
             },

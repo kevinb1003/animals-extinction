@@ -1,17 +1,17 @@
 import React, { Fragment, useState } from "react"
 import PropTypes from "prop-types"
 import ReactMapGL, { Marker, Popup } from "react-map-gl"
-import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES } from "../constants"
+import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES, ANIMAL_COLOR, MAP_DEFAULT_ZOOM } from "../constants"
 import Circle from "./Circle"
 
 const SpecieIcon = ({ indicatorCode, ...props }) => {
   switch (indicatorCode) {
     case ANIMAL_CODE.MAMMAL:
-      return <Circle color="#f54d4b" {...props} />
+      return <Circle color={ANIMAL_COLOR.MAMMAL} {...props} />
     case ANIMAL_CODE.BIRD:
-      return <Circle color="#19c416" {...props} />
+      return <Circle color={ANIMAL_COLOR.BIRD} {...props} />
     case ANIMAL_CODE.FISH:
-      return <Circle color="#1771e4" {...props} />
+      return <Circle color={ANIMAL_COLOR.FISH} {...props} />
     default:
       return <></>
   }
@@ -19,7 +19,7 @@ const SpecieIcon = ({ indicatorCode, ...props }) => {
 
 const Map = ({ data, mapTitle }) => {
   const [viewport, setViewport] = useState({
-    zoom: 1.5,
+    zoom: MAP_DEFAULT_ZOOM,
   })
   const [popup, setPopup] = useState(null)
 
@@ -59,7 +59,6 @@ const Map = ({ data, mapTitle }) => {
 
         {popup && (
           <Popup
-            tipSize={5}
             longitude={popup.longitude}
             latitude={popup.latitude}
             onClose={() => setPopup(null)}
