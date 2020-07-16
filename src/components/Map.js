@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from "react"
+import React, { memo, Fragment, useState } from "react"
 import PropTypes from "prop-types"
 import ReactMapGL, { Marker, Popup } from "react-map-gl"
 import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES, ANIMAL_COLOR, MAP_DEFAULT_ZOOM } from "../constants"
@@ -17,7 +17,7 @@ const SpecieMarker = ({ indicatorCode, ...props }) => {
   }
 }
 
-const Map = ({ data, mapTitle }) => {
+const Map = memo(({ data, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: MAP_DEFAULT_ZOOM,
   })
@@ -96,7 +96,7 @@ const Map = ({ data, mapTitle }) => {
       `}</style>
     </>
   )
-}
+})
 
 Map.propTypes = {
   data: PropTypes.arrayOf(PropTypes.object).isRequired,

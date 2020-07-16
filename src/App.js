@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from "react"
+import React, { useState, useEffect, useMemo } from "react"
 import coords from "./assets/json/coords.json"
 import { JSON_LIST, ANIMAL_COLOR } from "./constants"
 import Header from "./components/Header"
@@ -36,6 +36,8 @@ const App = () => {
     setMapData(data)
   }, [selectedOption])
 
+  const data = useMemo(() => mapData, [mapData])
+
   return (
     <>
       <div>
@@ -61,7 +63,7 @@ const App = () => {
         />
       </div>
       <Map
-        data={mapData}
+        data={data}
         mapTitle="The International Union for the Conservation of Nature predicts that
         99.9 percent of critically endangered species and 67 percent of
         endangered species will be lost within the next 100 years."
