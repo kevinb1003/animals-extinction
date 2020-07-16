@@ -1,6 +1,5 @@
-import React, { memo } from "react"
+import React from "react"
 import PropTypes from "prop-types"
-import equal from 'fast-deep-equal/es6/react'
 
 const Selector = ({ options, selectedOption, selectOption, maxWidth }) => (
   <div className="selector-container">
@@ -96,4 +95,4 @@ Selector.propTypes = {
 }
 
 
-export default memo(Selector, (prevProps, nextProps) => equal(prevProps, nextProps))
+export default Selector

@@ -17,7 +17,7 @@ const SpecieMarker = ({ indicatorCode, ...props }) => {
   }
 }
 
-const Map = memo(({ data, mapTitle }) => {
+const Map = ({ data, mapTitle }) => {
   const [viewport, setViewport] = useState({
     zoom: MAP_DEFAULT_ZOOM,
   })
@@ -96,11 +96,11 @@ const Map = memo(({ data, mapTitle }) => {
       `}</style>
     </>
   )
-})
+}
 
 Map.propTypes = {
   data: PropTypes.arrayOf(PropTypes.object).isRequired,
   mapTitle: PropTypes.string.isRequired,
 }
 
-export default Map
+export default memo(Map)
