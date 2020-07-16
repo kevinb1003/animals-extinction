@@ -1,28 +1,22 @@
-import React from "react"
+import React, { memo } from "react"
 import PropTypes from "prop-types"
+import equal from 'fast-deep-equal/es6/react'
 
-const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
+const Selector = ({ options, selectedOption, selectOption, maxWidth }) => (
   <div className="selector-container">
     {options.map((option, i) => (
-      <div
+      <button
         key={option.label}
-        role="presentation"
         className={`selector-button ${selectedOption === i ? "active" : ""}`}
-        onClick={() => option.onClick(i)}
+        onClick={() => selectOption(i)}
       >
         {option.icon} {option.label}
-      </div>
+      </button>
     ))}
     <style jsx>
       {`
         .selector-container {
           max-width: ${maxWidth};
-        }
-
-        .selector-button {
-          cursor: ${disabled ? "not-allowed" : "cursor"};
-          pointer-events: ${disabled ? "none" : "auto"};
-          opacity: ${disabled ? "0.5" : "1"};
         }
       `}
     </style>
@@ -51,6 +45,7 @@ const Selector = ({ options, selectedOption, maxWidth, disabled }) => (
           background-color: white;
           border-right: 0;
           cursor: pointer;
+          outline: 0;
         }
 
         .active {
@@ -92,9 +87,13 @@ Selector.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
       label: PropTypes.string.isRequired,
-      onClick: PropTypes.func.isRequired,
+      icon: PropTypes.node.isRequired,
     })
   ).isRequired,
+  selectedOption: PropTypes.number.isRequired,
+  selectOption: PropTypes.func.isRequired,
+  maxWidth: PropTypes.string.isRequired,
 }
 
-export default Selector
+
+export default memo(Selector, (prevProps, nextProps) => equal(prevProps, nextProps))

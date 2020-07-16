@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useCallback } from "react"
 import coords from "./assets/json/coords.json"
 import { JSON_LIST, ANIMAL_COLOR } from "./constants"
 import Header from "./components/Header"
@@ -45,20 +45,18 @@ const App = () => {
             {
               icon: <Circle color={ANIMAL_COLOR.MAMMAL} />,
               label: "Mammals",
-              onClick: (i) => selectOption(i),
             },
             {
               icon: <Circle color={ANIMAL_COLOR.FISH} />,
               label: "Fish",
-              onClick: (i) => selectOption(i),
             },
             {
               icon: <Circle color={ANIMAL_COLOR.BIRD} />,
               label: "Birds",
-              onClick: (i) => selectOption(i),
             },
           ]}
           selectedOption={selectedOption}
+          selectOption={selectOption}
           maxWidth="400px"
         />
       </div>

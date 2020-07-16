@@ -4,7 +4,7 @@ import ReactMapGL, { Marker, Popup } from "react-map-gl"
 import { ANIMAL_CODE, MAXMIUM_ENDAGERED_SPECIES, ANIMAL_COLOR, MAP_DEFAULT_ZOOM } from "../constants"
 import Circle from "./Circle"
 
-const SpecieIcon = ({ indicatorCode, ...props }) => {
+const SpecieMarker = ({ indicatorCode, ...props }) => {
   switch (indicatorCode) {
     case ANIMAL_CODE.MAMMAL:
       return <Circle color={ANIMAL_COLOR.MAMMAL} {...props} />
@@ -44,7 +44,7 @@ const Map = ({ data, mapTitle }) => {
                 latitude={country.latitude}
               >
                 <div onClick={() => setPopup({ ...country })}>
-                  <SpecieIcon
+                  <SpecieMarker
                     indicatorCode={country.indicatorCode}
                     width={`${(country.total / MAXMIUM_ENDAGERED_SPECIES) * 100}px`}
                     height={`${(country.total / MAXMIUM_ENDAGERED_SPECIES) * 100}px`}
